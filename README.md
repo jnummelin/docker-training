@@ -4,7 +4,7 @@ Samples for Docker training
 
 # How to get into Docker for MAC Moby VM
 
-screen ~/Library/Containers/com.docker.docker/Data/com.docker.driver.amd64-linux/tty
+screen ~/Library/Containers/com.docker.docker/Data/vms/0/tty
 
 Get out with:
 CTRL+a k combo
